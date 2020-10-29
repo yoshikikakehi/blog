@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yoshikikakehiHackGT/static/css/main.523f09c5.chunk.css",
+    "main.js": "/yoshikikakehiHackGT/static/js/main.d2301674.chunk.js",
+    "main.js.map": "/yoshikikakehiHackGT/static/js/main.d2301674.chunk.js.map",
+    "runtime-main.js": "/yoshikikakehiHackGT/static/js/runtime-main.49d658ac.js",
+    "runtime-main.js.map": "/yoshikikakehiHackGT/static/js/runtime-main.49d658ac.js.map",
+    "static/js/2.1867bbc1.chunk.js": "/yoshikikakehiHackGT/static/js/2.1867bbc1.chunk.js",
+    "static/js/2.1867bbc1.chunk.js.map": "/yoshikikakehiHackGT/static/js/2.1867bbc1.chunk.js.map",
+    "index.html": "/yoshikikakehiHackGT/index.html",
+    "precache-manifest.9e2c1d931257e5f584daab2f55318833.js": "/yoshikikakehiHackGT/precache-manifest.9e2c1d931257e5f584daab2f55318833.js",
+    "service-worker.js": "/yoshikikakehiHackGT/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/yoshikikakehiHackGT/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.1867bbc1.chunk.js.LICENSE.txt": "/yoshikikakehiHackGT/static/js/2.1867bbc1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/yoshikikakehiHackGT/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49d658ac.js",
+    "static/js/2.1867bbc1.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.d2301674.chunk.js"
+  ]
+}
